@@ -8,7 +8,7 @@ This application is a short timed quiz game that asks questions related to JavaS
 
 Here is an image of what the application looks like:
 
-<img src="/assets/images/image1.png")
+<img src="./assets/images/image1.png")
 
 ## License
 
